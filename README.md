@@ -1,4 +1,5 @@
 # Annotated-Semantic-Predications-from-SemMedDB
+I went throught the pre-processing, fine-tuning process in `Interview task.ipynb`. Then develop the `task.py` for further multiple experiments.
 
 ## Instructions
   use `run.sh` to run multiple task at the same time. If more then one GPU available, could modify it to achieve parallel computing.
