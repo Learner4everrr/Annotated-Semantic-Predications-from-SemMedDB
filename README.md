@@ -9,12 +9,12 @@ I went throught the pre-processing, fine-tuning process in `Interview task.ipynb
   Results are saved in the end of `result.txt` file
 
 ## Single experiment examples
-  - Fine-tune Bert-base-uncased model for 10 epoch with Training-Validation-Test split seed 3
+  - Fine-tune `Bert-base-uncased` model for `10` epoch with Training-Validation-Test split seed `3`
       ```ruby
       python task.py -model bert-base-uncased -epoch 10 -random 3
       ```
 
-  - Fine-tune roberta-base model for 20 epoch with Training-Validation-Test split seed 50
+  - Fine-tune `roberta-base` model for `20` epoch with Training-Validation-Test split seed `50`
       ```ruby
       python task.py -model roberta-base -epoch 20 -random 50
       ```
