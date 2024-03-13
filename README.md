@@ -1,0 +1,1 @@
+# Annotated-Semantic-Predications-from-SemMedDB
