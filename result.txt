@@ -1,0 +1,253 @@
+
+
+Results on Training set:
+ model name:bert-base-uncased
+epoch number:10
+random seed for spliting dataset:3
+{'eval_loss': 0.6945485472679138, 'eval_accuracy': 0.5357142857142857, 'eval_precision': 0.5357142857142857, 'eval_recall': 1.0, 'eval_f1': 0.6976744186046512, 'eval_runtime': 38.6568, 'eval_samples_per_second': 54.324, 'eval_steps_per_second': 1.707}
+
+Results on Val set:
+ model name:bert-base-uncased
+epoch number:10
+random seed for spliting dataset:3
+{'eval_loss': 0.7004858255386353, 'eval_accuracy': 0.5177777777777778, 'eval_precision': 0.5167037861915368, 'eval_recall': 1.0, 'eval_f1': 0.6813509544787077, 'eval_runtime': 3.3018, 'eval_samples_per_second': 136.288, 'eval_steps_per_second': 4.543}
+
+Results on test set:
+ model name:bert-base-uncased
+epoch number:10
+random seed for spliting dataset:3
+{'eval_loss': 0.6880709528923035, 'eval_accuracy': 0.5511111111111111, 'eval_precision': 0.5511111111111111, 'eval_recall': 1.0, 'eval_f1': 0.7106017191977078, 'eval_runtime': 2.5875, 'eval_samples_per_second': 173.911, 'eval_steps_per_second': 5.797}
+
+Results on Training set:
+ model name:roberta-base
+epoch number:10
+random seed for spliting dataset:3
+{'eval_loss': 0.6926063895225525, 'eval_accuracy': 0.5357142857142857, 'eval_precision': 0.5361620057859209, 'eval_recall': 0.9884444444444445, 'eval_f1': 0.69521725539231, 'eval_runtime': 17.7587, 'eval_samples_per_second': 118.252, 'eval_steps_per_second': 3.716}
+
+Results on Val set:
+ model name:roberta-base
+epoch number:10
+random seed for spliting dataset:3
+{'eval_loss': 0.692944347858429, 'eval_accuracy': 0.5133333333333333, 'eval_precision': 0.5145413870246085, 'eval_recall': 0.9913793103448276, 'eval_f1': 0.6774668630338733, 'eval_runtime': 4.1707, 'eval_samples_per_second': 107.895, 'eval_steps_per_second': 3.597}
+
+Results on test set:
+ model name:roberta-base
+epoch number:10
+random seed for spliting dataset:3
+{'eval_loss': 0.6922440528869629, 'eval_accuracy': 0.5444444444444444, 'eval_precision': 0.5483146067415731, 'eval_recall': 0.9838709677419355, 'eval_f1': 0.7041847041847042, 'eval_runtime': 3.2342, 'eval_samples_per_second': 139.139, 'eval_steps_per_second': 4.638}
+
+Results on Training set:
+ model name:bert-base-uncased
+epoch number:10
+random seed for spliting dataset:3
+{'eval_loss': 0.627666711807251, 'eval_accuracy': 0.6452380952380953, 'eval_precision': 0.6532258064516129, 'eval_recall': 0.72, 'eval_f1': 0.6849894291754757, 'eval_runtime': 14.6839, 'eval_samples_per_second': 143.014, 'eval_steps_per_second': 4.495, 'epoch': 10.0}
+
+Results on Val set:
+ model name:bert-base-uncased
+epoch number:10
+random seed for spliting dataset:3
+{'eval_loss': 0.6357797980308533, 'eval_accuracy': 0.6488888888888888, 'eval_precision': 0.6370370370370371, 'eval_recall': 0.7413793103448276, 'eval_f1': 0.6852589641434264, 'eval_runtime': 3.7295, 'eval_samples_per_second': 120.66, 'eval_steps_per_second': 4.022, 'epoch': 10.0}
+
+Results on test set:
+ model name:bert-base-uncased
+epoch number:10
+random seed for spliting dataset:3
+{'eval_loss': 0.6301506757736206, 'eval_accuracy': 0.6422222222222222, 'eval_precision': 0.669260700389105, 'eval_recall': 0.6935483870967742, 'eval_f1': 0.6811881188118811, 'eval_runtime': 2.9598, 'eval_samples_per_second': 152.038, 'eval_steps_per_second': 5.068, 'epoch': 10.0}
+
+Results on Training set:
+ model name:distilbert-base-uncased
+epoch number:10
+random seed for spliting dataset:3
+{'eval_loss': 0.3544864356517792, 'eval_accuracy': 0.8709523809523809, 'eval_precision': 0.8719512195121951, 'eval_recall': 0.8897777777777778, 'eval_f1': 0.88077430708315, 'eval_runtime': 7.4319, 'eval_samples_per_second': 282.565, 'eval_steps_per_second': 8.881, 'epoch': 10.0}
+
+Results on Val set:
+ model name:distilbert-base-uncased
+epoch number:10
+random seed for spliting dataset:3
+{'eval_loss': 0.5851360559463501, 'eval_accuracy': 0.7066666666666667, 'eval_precision': 0.6923076923076923, 'eval_recall': 0.7758620689655172, 'eval_f1': 0.7317073170731708, 'eval_runtime': 1.8629, 'eval_samples_per_second': 241.563, 'eval_steps_per_second': 8.052, 'epoch': 10.0}
+
+Results on test set:
+ model name:distilbert-base-uncased
+epoch number:10
+random seed for spliting dataset:3
+{'eval_loss': 0.5222102999687195, 'eval_accuracy': 0.7422222222222222, 'eval_precision': 0.7444444444444445, 'eval_recall': 0.8104838709677419, 'eval_f1': 0.7760617760617761, 'eval_runtime': 1.4794, 'eval_samples_per_second': 304.177, 'eval_steps_per_second': 10.139, 'epoch': 10.0}
+
+Results on Training set:
+ model name:roberta-base
+epoch number:10
+random seed for spliting dataset:3
+{'eval_loss': 0.6858373880386353, 'eval_accuracy': 0.5357142857142857, 'eval_precision': 0.5357142857142857, 'eval_recall': 1.0, 'eval_f1': 0.6976744186046512, 'eval_runtime': 17.863, 'eval_samples_per_second': 117.562, 'eval_steps_per_second': 3.695, 'epoch': 10.0}
+
+Results on Val set:
+ model name:roberta-base
+epoch number:10
+random seed for spliting dataset:3
+{'eval_loss': 0.6889950037002563, 'eval_accuracy': 0.5155555555555555, 'eval_precision': 0.5155555555555555, 'eval_recall': 1.0, 'eval_f1': 0.6803519061583577, 'eval_runtime': 4.7122, 'eval_samples_per_second': 95.497, 'eval_steps_per_second': 3.183, 'epoch': 10.0}
+
+Results on test set:
+ model name:roberta-base
+epoch number:10
+random seed for spliting dataset:3
+{'eval_loss': 0.6840622425079346, 'eval_accuracy': 0.5511111111111111, 'eval_precision': 0.5511111111111111, 'eval_recall': 1.0, 'eval_f1': 0.7106017191977078, 'eval_runtime': 3.5865, 'eval_samples_per_second': 125.472, 'eval_steps_per_second': 4.182, 'epoch': 10.0}
+
+Results on Training set:
+ model name:google-bert/bert-large-uncased
+epoch number:10
+random seed for spliting dataset:3
+{'eval_loss': 0.6447964906692505, 'eval_accuracy': 0.6333333333333333, 'eval_precision': 0.6235212247738344, 'eval_recall': 0.7964444444444444, 'eval_f1': 0.6994535519125683, 'eval_runtime': 115.104, 'eval_samples_per_second': 18.244, 'eval_steps_per_second': 0.573, 'epoch': 10.0}
+
+Results on Val set:
+ model name:google-bert/bert-large-uncased
+epoch number:10
+random seed for spliting dataset:3
+{'eval_loss': 0.6490290760993958, 'eval_accuracy': 0.6311111111111111, 'eval_precision': 0.610738255033557, 'eval_recall': 0.7844827586206896, 'eval_f1': 0.6867924528301886, 'eval_runtime': 28.9144, 'eval_samples_per_second': 15.563, 'eval_steps_per_second': 0.519, 'epoch': 10.0}
+
+Results on test set:
+ model name:google-bert/bert-large-uncased
+epoch number:10
+random seed for spliting dataset:3
+{'eval_loss': 0.6405834555625916, 'eval_accuracy': 0.6622222222222223, 'eval_precision': 0.66, 'eval_recall': 0.7983870967741935, 'eval_f1': 0.7226277372262774, 'eval_runtime': 22.7284, 'eval_samples_per_second': 19.799, 'eval_steps_per_second': 0.66, 'epoch': 10.0}
+
+Results on Training set:
+ model name:bert-base-uncased
+epoch number:10
+random seed for spliting dataset:94
+{'eval_loss': 0.6335987448692322, 'eval_accuracy': 0.6347619047619047, 'eval_precision': 0.6374269005847953, 'eval_recall': 0.7629046369203849, 'eval_f1': 0.6945440063719633, 'eval_runtime': 37.0482, 'eval_samples_per_second': 56.683, 'eval_steps_per_second': 1.781, 'epoch': 10.0}
+
+Results on Val set:
+ model name:bert-base-uncased
+epoch number:10
+random seed for spliting dataset:94
+{'eval_loss': 0.6238349676132202, 'eval_accuracy': 0.6511111111111111, 'eval_precision': 0.6267123287671232, 'eval_recall': 0.7922077922077922, 'eval_f1': 0.6998087954110899, 'eval_runtime': 8.9369, 'eval_samples_per_second': 50.353, 'eval_steps_per_second': 1.678, 'epoch': 10.0}
+
+Results on test set:
+ model name:bert-base-uncased
+epoch number:10
+random seed for spliting dataset:94
+{'eval_loss': 0.6199253797531128, 'eval_accuracy': 0.6711111111111111, 'eval_precision': 0.6387959866220736, 'eval_recall': 0.8268398268398268, 'eval_f1': 0.7207547169811321, 'eval_runtime': 7.8674, 'eval_samples_per_second': 57.198, 'eval_steps_per_second': 1.907, 'epoch': 10.0}
+
+Results on Training set:
+ model name:distilbert-base-uncased
+epoch number:10
+random seed for spliting dataset:94
+{'eval_loss': 0.3605920076370239, 'eval_accuracy': 0.86, 'eval_precision': 0.8746690203000883, 'eval_recall': 0.8670166229221348, 'eval_f1': 0.8708260105448156, 'eval_runtime': 8.0572, 'eval_samples_per_second': 260.635, 'eval_steps_per_second': 8.191, 'epoch': 10.0}
+
+Results on Val set:
+ model name:distilbert-base-uncased
+epoch number:10
+random seed for spliting dataset:94
+{'eval_loss': 0.5647420287132263, 'eval_accuracy': 0.7333333333333333, 'eval_precision': 0.7228915662650602, 'eval_recall': 0.7792207792207793, 'eval_f1': 0.75, 'eval_runtime': 1.9652, 'eval_samples_per_second': 228.99, 'eval_steps_per_second': 7.633, 'epoch': 10.0}
+
+Results on test set:
+ model name:distilbert-base-uncased
+epoch number:10
+random seed for spliting dataset:94
+{'eval_loss': 0.5554755330085754, 'eval_accuracy': 0.7222222222222222, 'eval_precision': 0.7137096774193549, 'eval_recall': 0.7662337662337663, 'eval_f1': 0.7390396659707725, 'eval_runtime': 1.7347, 'eval_samples_per_second': 259.414, 'eval_steps_per_second': 8.647, 'epoch': 10.0}
+
+Results on Training set:
+ model name:roberta-base
+epoch number:10
+random seed for spliting dataset:94
+{'eval_loss': 0.6851768493652344, 'eval_accuracy': 0.5442857142857143, 'eval_precision': 0.5442857142857143, 'eval_recall': 1.0, 'eval_f1': 0.7049028677150786, 'eval_runtime': 17.8259, 'eval_samples_per_second': 117.806, 'eval_steps_per_second': 3.702, 'epoch': 10.0}
+
+Results on Val set:
+ model name:roberta-base
+epoch number:10
+random seed for spliting dataset:94
+{'eval_loss': 0.6901209950447083, 'eval_accuracy': 0.5133333333333333, 'eval_precision': 0.5133333333333333, 'eval_recall': 1.0, 'eval_f1': 0.6784140969162996, 'eval_runtime': 4.3185, 'eval_samples_per_second': 104.203, 'eval_steps_per_second': 3.473, 'epoch': 10.0}
+
+Results on test set:
+ model name:roberta-base
+epoch number:10
+random seed for spliting dataset:94
+{'eval_loss': 0.6908923983573914, 'eval_accuracy': 0.5133333333333333, 'eval_precision': 0.5133333333333333, 'eval_recall': 1.0, 'eval_f1': 0.6784140969162996, 'eval_runtime': 3.8009, 'eval_samples_per_second': 118.392, 'eval_steps_per_second': 3.946, 'epoch': 10.0}
+
+Results on Training set:
+ model name:google-bert/bert-large-uncased
+epoch number:10
+random seed for spliting dataset:94
+{'eval_loss': 0.6479694247245789, 'eval_accuracy': 0.6209523809523809, 'eval_precision': 0.6122977346278318, 'eval_recall': 0.8276465441819773, 'eval_f1': 0.7038690476190476, 'eval_runtime': 45.8017, 'eval_samples_per_second': 45.85, 'eval_steps_per_second': 1.441, 'epoch': 10.0}
+
+Results on Val set:
+ model name:google-bert/bert-large-uncased
+epoch number:10
+random seed for spliting dataset:94
+{'eval_loss': 0.646306574344635, 'eval_accuracy': 0.6044444444444445, 'eval_precision': 0.5820433436532507, 'eval_recall': 0.8138528138528138, 'eval_f1': 0.6787003610108303, 'eval_runtime': 11.0922, 'eval_samples_per_second': 40.569, 'eval_steps_per_second': 1.352, 'epoch': 10.0}
+
+Results on test set:
+ model name:google-bert/bert-large-uncased
+epoch number:10
+random seed for spliting dataset:94
+{'eval_loss': 0.6460490822792053, 'eval_accuracy': 0.6488888888888888, 'eval_precision': 0.6144200626959248, 'eval_recall': 0.8484848484848485, 'eval_f1': 0.7127272727272728, 'eval_runtime': 9.7942, 'eval_samples_per_second': 45.946, 'eval_steps_per_second': 1.532, 'epoch': 10.0}
+
+Results on Training set:
+ model name:bert-base-uncased
+epoch number:10
+random seed for spliting dataset:20
+{'eval_loss': 0.6278451681137085, 'eval_accuracy': 0.6438095238095238, 'eval_precision': 0.6456752655538694, 'eval_recall': 0.7517667844522968, 'eval_f1': 0.6946938775510204, 'eval_runtime': 15.1996, 'eval_samples_per_second': 138.162, 'eval_steps_per_second': 4.342, 'epoch': 10.0}
+
+Results on Val set:
+ model name:bert-base-uncased
+epoch number:10
+random seed for spliting dataset:20
+{'eval_loss': 0.6310498118400574, 'eval_accuracy': 0.64, 'eval_precision': 0.6354166666666666, 'eval_recall': 0.7625, 'eval_f1': 0.6931818181818181, 'eval_runtime': 3.0961, 'eval_samples_per_second': 145.345, 'eval_steps_per_second': 4.845, 'epoch': 10.0}
+
+Results on test set:
+ model name:bert-base-uncased
+epoch number:10
+random seed for spliting dataset:20
+{'eval_loss': 0.6380491852760315, 'eval_accuracy': 0.6222222222222222, 'eval_precision': 0.6145454545454545, 'eval_recall': 0.7253218884120172, 'eval_f1': 0.6653543307086613, 'eval_runtime': 2.8685, 'eval_samples_per_second': 156.874, 'eval_steps_per_second': 5.229, 'epoch': 10.0}
+
+Results on Training set:
+ model name:distilbert-base-uncased
+epoch number:10
+random seed for spliting dataset:20
+{'eval_loss': 0.4680376648902893, 'eval_accuracy': 0.7947619047619048, 'eval_precision': 0.8093556928508385, 'eval_recall': 0.8100706713780919, 'eval_f1': 0.8097130242825608, 'eval_runtime': 10.3588, 'eval_samples_per_second': 202.726, 'eval_steps_per_second': 6.371, 'epoch': 10.0}
+
+Results on Val set:
+ model name:distilbert-base-uncased
+epoch number:10
+random seed for spliting dataset:20
+{'eval_loss': 0.5551502108573914, 'eval_accuracy': 0.7133333333333334, 'eval_precision': 0.726530612244898, 'eval_recall': 0.7416666666666667, 'eval_f1': 0.7340206185567011, 'eval_runtime': 1.5851, 'eval_samples_per_second': 283.896, 'eval_steps_per_second': 9.463, 'epoch': 10.0}
+
+Results on test set:
+ model name:distilbert-base-uncased
+epoch number:10
+random seed for spliting dataset:20
+{'eval_loss': 0.5468364953994751, 'eval_accuracy': 0.7155555555555555, 'eval_precision': 0.7488151658767772, 'eval_recall': 0.6781115879828327, 'eval_f1': 0.7117117117117118, 'eval_runtime': 1.4624, 'eval_samples_per_second': 307.716, 'eval_steps_per_second': 10.257, 'epoch': 10.0}
+
+Results on Training set:
+ model name:roberta-base
+epoch number:10
+random seed for spliting dataset:20
+{'eval_loss': 0.6854536533355713, 'eval_accuracy': 0.539047619047619, 'eval_precision': 0.539047619047619, 'eval_recall': 1.0, 'eval_f1': 0.7004950495049505, 'eval_runtime': 19.4, 'eval_samples_per_second': 108.248, 'eval_steps_per_second': 3.402, 'epoch': 10.0}
+
+Results on Val set:
+ model name:roberta-base
+epoch number:10
+random seed for spliting dataset:20
+{'eval_loss': 0.6864184141159058, 'eval_accuracy': 0.5333333333333333, 'eval_precision': 0.5333333333333333, 'eval_recall': 1.0, 'eval_f1': 0.6956521739130436, 'eval_runtime': 3.7701, 'eval_samples_per_second': 119.36, 'eval_steps_per_second': 3.979, 'epoch': 10.0}
+
+Results on test set:
+ model name:roberta-base
+epoch number:10
+random seed for spliting dataset:20
+{'eval_loss': 0.6890552043914795, 'eval_accuracy': 0.5177777777777778, 'eval_precision': 0.5177777777777778, 'eval_recall': 1.0, 'eval_f1': 0.6822840409956076, 'eval_runtime': 3.6271, 'eval_samples_per_second': 124.065, 'eval_steps_per_second': 4.136, 'epoch': 10.0}
+
+Results on Training set:
+ model name:google-bert/bert-large-uncased
+epoch number:10
+random seed for spliting dataset:20
+{'eval_loss': 0.6443457007408142, 'eval_accuracy': 0.6390476190476191, 'eval_precision': 0.6293222683264177, 'eval_recall': 0.803886925795053, 'eval_f1': 0.7059736229635376, 'eval_runtime': 48.1182, 'eval_samples_per_second': 43.642, 'eval_steps_per_second': 1.372, 'epoch': 10.0}
+
+Results on Val set:
+ model name:google-bert/bert-large-uncased
+epoch number:10
+random seed for spliting dataset:20
+{'eval_loss': 0.6498315334320068, 'eval_accuracy': 0.6155555555555555, 'eval_precision': 0.6063492063492063, 'eval_recall': 0.7958333333333333, 'eval_f1': 0.6882882882882883, 'eval_runtime': 9.8329, 'eval_samples_per_second': 45.765, 'eval_steps_per_second': 1.525, 'epoch': 10.0}
+
+Results on test set:
+ model name:google-bert/bert-large-uncased
+epoch number:10
+random seed for spliting dataset:20
+{'eval_loss': 0.6453563570976257, 'eval_accuracy': 0.6155555555555555, 'eval_precision': 0.6027397260273972, 'eval_recall': 0.7553648068669528, 'eval_f1': 0.6704761904761904, 'eval_runtime': 9.0103, 'eval_samples_per_second': 49.943, 'eval_steps_per_second': 1.665, 'epoch': 10.0}
