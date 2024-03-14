@@ -1,5 +1,5 @@
 # Annotated-Semantic-Predications-from-SemMedDB
-I went throught the pre-processing, fine-tuning process in `Interview task.ipynb`. Then develop the `task.py` for further multiple experiments.
+I went throught the pre-processing, fine-tuning process in `Interview task.ipynb`. Then developed the `task.py` for further multiple experiments.
 
 ## Instructions
   use `run.sh` to run multiple task at the same time. If more then one GPU available, you could modify the GPU index to achieve parallel computing (e.g. in MSI).
@@ -17,6 +17,11 @@ I went throught the pre-processing, fine-tuning process in `Interview task.ipynb
   - Fine-tune `roberta-base` model for `20` epochs with Training-Validation-Test split seed `50`
       ```ruby
       python task.py -model roberta-base -epoch 20 -random 50
+      ```
+## mutilple experiment examples
+  - Once you modified the `run.sh` file and put many experiment command in it.
+      ```ruby
+      bash run.sh
       ```
 
 Please note that currently only four models can be trained and evaluated: `BERT-base-uncased`, `DistilBERT-base-uncased`, `RoBERTa-
